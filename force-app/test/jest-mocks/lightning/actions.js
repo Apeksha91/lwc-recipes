@@ -1,5 +1,5 @@
 /**
- * Close Screen Action Event base class
+ * Close Screen Action Event base class -test
  */
 export const CloseScreenEventName = 'lightning__actionsclosescreen';
 
